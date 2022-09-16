@@ -1,16 +1,8 @@
 # cupertino_store
 
-A new Flutter project.
+## About this app 
 
-## Getting Started
+- ![WhatsApp Image 2022-09-05 at 9 38 33 AM](https://user-images.githubusercontent.com/111631451/188362051-6a55e917-db34-41d0-84c4-2c8db7d2058f.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 
+https://user-images.githubusercontent.com/111631451/188365155-fa86292c-fc3f-46b4-a7d1-be05404af8ec.mp4
